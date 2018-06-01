@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_productRec" value="name:p_id;datatype:int,name:p_name;datatype:string,name:p_img;datatype:string,name:p_price;datatype:int" />
-</info>
